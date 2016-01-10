@@ -10,3 +10,7 @@ A journal of side projects for keeping track and collaborating.
 * tonic.js
 * Ambient notifications
 * Selfie
+* assigntu
+* Guy FiHairMe
+* Nudge
+* 8:36
